@@ -1,18 +1,15 @@
-### 👋
+![Header](./github-header-image.png)
 
-Coming Soon....
+# Hello there👋
 
-<!--
-**JRascagneres/JRascagneres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jacques Rascagneres, a Senior Software enginner with a number of years experience developing software. Writing Golang since 2018. Based near Manchester, UK and currently working for Couchbase.
 
-Here are some ideas to get you started:
+A founder and partner of [TheSpaceDevs](https://thespacedevs.com/) and the founder and owner of [Go4Liftoff](https://go4liftoff.com/), a spaceflight tracking application with a website, mobile app, discord bot and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Github Stats
+![Jacques Rascagneres' GitHub stats](https://github-readme-stats.vercel.app/api?username=jrascagneres&show_icons=true&theme=dark)
+
+# Other
+- Part of Launch Library 1 since 2016-2020
+- Following its closure in 2020 part of a collaborative effort to operate [Launch Library 2](https://ll.thespacedevs.com/) under [The Space Devs](https://thespacedevs.com/)
+- Owner and operator of [Go4Liftoff](https://go4liftoff.com/)
